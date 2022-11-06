@@ -1,6 +1,7 @@
 # code
-## this is my code
+## this is my luogu code
 
 ```
 Take a look！
 ```
+[luogu](luogu.com.cn)
