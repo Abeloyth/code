@@ -4,4 +4,4 @@
 ```
 Take a look！
 ```
-[luogu](luogu.com.cn)
+[luogu](https://www.luogu.com.cn)
