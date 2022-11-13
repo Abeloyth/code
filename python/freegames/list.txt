@@ -1,0 +1,26 @@
+下载freegames
+
+ant           蚂蚁
+bagels     百吉饼
+bounce    反弹
+cannon    加农大炮
+connect   五子棋
+crypto     加密
+fidget
+flappy    flappy
+guess    猜一猜
+life          生活
+maze       迷宫
+memory   记忆
+minesweeper 扫雷艇
+pacman      吃豆人
+paint           绘图
+pong          乒乓
+simonsays     西蒙说
+snake         贪吃蛇
+tictactoe    井字棋
+tiles            华容道
+tron           特隆
+
+
+python -m freegames.名字
